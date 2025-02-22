@@ -1,0 +1,27 @@
+#feed {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ad-card {
+  width: 90%;
+  max-width: 600px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.ad-image {
+  width: 100%;
+  height: auto;
+}
+
+.ad-title {
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.ad-description {
+  font-size: 14px;
+}
